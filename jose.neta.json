@@ -1,0 +1,8 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Person",
+  "name": "José Neta",
+  "jobTitle": "Programmer",
+  "telephone": "00351935850294",
+  "url": "http://resume.rajada.pt"
+}
