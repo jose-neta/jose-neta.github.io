@@ -2,7 +2,10 @@
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">	
-	    <title> ya</title>
+	    <title>Rajada</title>
+    </head>
+<body>
+
         <style>
             body {
 background-color: #b3e4ff;
@@ -11,8 +14,6 @@ background-attachment: fixed;
 background-size: cover;
             }
         </style>
-    </head>
-<body>
 
 There is nothing here move along to my <a href="https://www.rajada.pt/jottings">jottings</a>
 </body>
