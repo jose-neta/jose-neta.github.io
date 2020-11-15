@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
-    <polygon fill="#a4cc45" points="957 450 539 900 1396 900" />
-    <polygon fill="#aa0000" points="957 450 872.9 900 1396 900" />
-    <polygon fill="#cdb13e" points="-60 900 398 662 816 900" />
-    <polygon fill="#b10022" points="337 900 398 662 816 900" />
-    <polygon fill="#e09753" points="1203 546 1552 900 876 900" />
-    <polygon fill="#b2003d" points="1203 546 1552 900 1162 900" />
-    <polygon fill="#de846e" points="641 695 886 900 367 900" />
-    <polygon fill="#ac0057" points="587 900 641 695 886 900" />
-    <polygon fill="#ca7a85" points="1710 900 1401 632 1096 900" />
+    <polygon fill="#C9376A" points="957 450 539 900 1396 900" />
+    <polygon fill="#E4354A" points="957 450 872.9 900 1396 900" />
+    <polygon fill="#F0AD56" points="-60 900 398 662 816 900" />
+    <polygon fill="#E76F51" points="337 900 398 662 816 900" />
+    <polygon fill="#E99252" points="1203 546 1552 900 876 900" />
+    <polygon fill="#DE456C" points="1203 546 1552 900 1162 900" />
+    <polygon fill="#E74C4C" points="641 695 886 900 367 900" />
+    <polygon fill="#BF3E71" points="587 900 641 695 886 900" />
+    <polygon fill="#E93B52" points="1710 900 1401 632 1096 900" />
     <polygon fill="#9e0071" points="710 900 1401 632 1365 900" />
-    <polygon fill="#aa7790" points="1210 900 971 687 725 900" />
-    <polygon fill="#880088" points="943 900 1210 900 971 687" />
+    <polygon fill="#9E417B" points="1210 900 971 687 725 900" />
+    <polygon fill="#8B3776" points="943 900 1210 900 971 687" />
 </svg>
